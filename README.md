@@ -9,17 +9,17 @@
 <body>
     <h3>PESQUISANDO PROVAS DE CONCURSOS</h3>
     
-    <small> site:cesgrario.org.br intext:prova informática</small>   
+ site:cesgrario.org.br intext:prova informática
 
-       <pre>obs. escolha o tema conforme a banca.</pre> 
+      obs. escolha o tema conforme a banca.
 
 <h3>PROCURANDO DADOS DE PESSOAS ESPECÍFICAS </h3>   
 
-        <small>filetype:PDF intext:Jair Messias Bolsonaro </small>
+        filetype:PDF intext:Jair Messias Bolsonaro
 
 <h3>COMO ACHAR FALHAS EM SITES COM FOTOS/DOCUMENTOS</h3>
-<small> index of/fotos </small>
-<small> index of/identidades</small>
+ index of/fotos
+ index of/identidades
 
 
 <h3>COMO VER AS CÂMERAS DE SEGURANÇA DAS PESSOAS </h3>
@@ -30,11 +30,11 @@
         
 <h3>PESQUISAR DADOS VASADOS NA INTERNET </h3>
 
-      <small>"CPF ***" "telefone *" "e-mail" intitle:"curriculum vitae"</small> 
+      "CPF ***" "telefone *" "e-mail" intitle:"curriculum vitae"
 
 <h3>ACESSANDO IMPRESSORAS PÚBLICAS/PESSOAIS </h3>
 
-        <small>Intitle:HP LASERJET PRO MFP inurl:/SSI/Index.html</small>
+      Intitle:HP LASERJET PRO MFP inurl:/SSI/Index.html
 
 </body>
 </html>
