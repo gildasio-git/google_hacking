@@ -7,9 +7,9 @@
     
 </head>
 <body>
-    <h3>PESQUISANDO PROVAS DE CONCURSOS</h3>
+<h3>PESQUISANDO PROVAS DE CONCURSOS</h3>
     
-    <cod>site:cesgrario.org.br intext:prova informática</cod>
+    <small>site:cesgrario.org.br intext:prova informática</small>
 
  obs. escolha o tema conforme a banca.
 
