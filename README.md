@@ -2,6 +2,6 @@
 <h3>GOOGLE HACKING</h3>
 
 <h4> PESQUISANDO PROVAS DE CONCURSOS</h4>
-<pre>
+<small>
     PESQUISANDO PROVAS DE CONCURSOS
-</pre>
+</small>
