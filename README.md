@@ -11,11 +11,11 @@
     
  site:cesgrario.org.br intext:prova informática
 
-      obs. escolha o tema conforme a banca.
+ obs. escolha o tema conforme a banca.
 
 <h3>PROCURANDO DADOS DE PESSOAS ESPECÍFICAS </h3>   
 
-        filetype:PDF intext:Jair Messias Bolsonaro
+ filetype:PDF intext:Jair Messias Bolsonaro
 
 <h3>COMO ACHAR FALHAS EM SITES COM FOTOS/DOCUMENTOS</h3>
  index of/fotos
@@ -30,11 +30,11 @@
         
 <h3>PESQUISAR DADOS VASADOS NA INTERNET </h3>
 
-      "CPF ***" "telefone *" "e-mail" intitle:"curriculum vitae"
+"CPF ***" "telefone *" "e-mail" intitle:"curriculum vitae"
 
 <h3>ACESSANDO IMPRESSORAS PÚBLICAS/PESSOAIS </h3>
 
-      Intitle:HP LASERJET PRO MFP inurl:/SSI/Index.html
+Intitle:HP LASERJET PRO MFP inurl:/SSI/Index.html
 
 </body>
 </html>
