@@ -19,7 +19,7 @@
 
 <h3>COMO ACHAR FALHAS EM SITES COM FOTOS/DOCUMENTOS</h3>
     <small>index of/fotos<br></small>
- index of/identidades
+    <small>index of/identidades</small>
 
 
 <h3>COMO VER AS CÂMERAS DE SEGURANÇA DAS PESSOAS </h3>
