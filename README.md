@@ -24,7 +24,7 @@
 
 <h3>COMO VER AS CÂMERAS DE SEGURANÇA DAS PESSOAS </h3>
 
-<smal>inurl:view/index.shtml </smal>
+<smal>inurl:view/index.shtml </smal><br>
 <small>inurl:mobile.html intitle:webcamxp</small>
         
         
