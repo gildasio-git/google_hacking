@@ -35,6 +35,10 @@
 <h3>ACESSANDO IMPRESSORAS PÚBLICAS/PESSOAIS </h3>
 
 Intitle:HP LASERJET PRO MFP inurl:/SSI/Index.html
+    
+<h3>COMO TESTAR FALHAS EM BANCO DE DADOS</h3>
+
+site:gov.br ext:sql
 
 </body>
 </html>
