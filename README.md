@@ -40,5 +40,9 @@ Intitle:HP LASERJET PRO MFP inurl:/SSI/Index.html
 
 site:gov.br ext:sql
 
+<h3>BUSCAR CONTEÚDO NA MESMA PÁGINA</h3>
+
+redes+computadores //vai pesquisar páginas que pussuam a palavra redes e computadores na mesma página.
+
 </body>
 </html>
