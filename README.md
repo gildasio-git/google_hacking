@@ -44,7 +44,7 @@ site:gov.br ext:sql
 
 redes+computadores //vai pesquisar páginas que pussuam a palavra redes e computadores na mesma página.
 
-<h3>BUSCAR CONTEÚDO NA MESMA PÁGINA PORÉM QUEN NÃO APAREÇA A PEQUISA DE UMA FONTE ESPECÍFICA</h3>
+<h3>BUSCAR CONTEÚDO NA MESMA PÁGINA PORÉM QUE NÃO APAREÇA A PEQUISA DE UMA FONTE ESPECÍFICA</h3>
 
 redes + computadores -wekpedia //vai pesquisar páginas que pussuam a palavra redes e computadores na mesma página, porém não traz resultados da wekepedia
 
@@ -62,7 +62,9 @@ redes + computadores -wekpedia //vai pesquisar páginas que pussuam a palavra re
     filetype:pdf Redes de computadores // Mesma busca acima porém com extensão .DOC, arquivos do Microsoft Word
     filetype:ppt Redes de computadores // Busca apresentação powerpoint.
  
-
+    
+<h3>BUSCA CONTEÚDO EM UM SITE ESPECÍFICO</h3>    
+    site:"url do site"  <h2>Ex. site:ariquemes190.com.br | irá mostrar conteúdo apenas desse site em específico.<h2>
  
 
     
