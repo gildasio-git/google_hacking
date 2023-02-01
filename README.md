@@ -44,5 +44,27 @@ site:gov.br ext:sql
 
 redes+computadores //vai pesquisar páginas que pussuam a palavra redes e computadores na mesma página.
 
+<h3>BUSCAR CONTEÚDO NA MESMA PÁGINA PORÉM QUEN NÃO APAREÇA A PEQUISA DE UMA FONTE ESPECÍFICA</h3>
+
+redes + computadores -wekpedia //vai pesquisar páginas que pussuam a palavra redes e computadores na mesma página, porém não traz resultados da wekepedia
+
+<h3>PESQUISANDO ALGO ESPECÍFICO</h3>
+
+"redes de computadores" -wekpedia //vai pesquisar conteúdo específico que estejam entre as " " porém não traz resultados da WEKPEDIA.
+    
+<h3>PESQUISANDO DOCUMENTOS EM SERVIDORES DESPROTEGIDOS</h3>
+    index of //pega o conteúdo do diretório raiz dos servidores que o google encontrar
+    index of/my documents //Se alterar para busca de imagens , será mostrado imagens de computadores de pessoas
+    index of/Personal // Busca documentos em dispositivos pessoais 
+
+<h3>BUSCA POR ARQUIVOS ESPECÍFICOS</h3>    
+    filetype:pdf Redes de computadores //Busca somente as apostilas, permitindo assim baixar diretamente o arquivo
+    filetype:pdf Redes de computadores // Mesma busca acima porém com extensão .DOC, arquivos do Microsoft Word
+    filetype:ppt Redes de computadores // Busca apresentação powerpoint.
+ 
+
+ 
+
+    
 </body>
 </html>
