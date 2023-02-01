@@ -64,7 +64,17 @@ redes + computadores -wekpedia //vai pesquisar páginas que pussuam a palavra re
  
     
 <h3>BUSCA CONTEÚDO EM UM SITE ESPECÍFICO</h3>    
-    site:"url do site"  <h2>Ex. site:ariquemes190.com.br | irá mostrar conteúdo apenas desse site em específico.<h2>
+    site:"url do site"  Ex. site:ariquemes190.com.br | irá mostrar conteúdo apenas desse site em específico.
+
+<h3>INTEXT:BUSCA PELO CONTEÚDO DE UM ARUQIVO</h3>
+    intext:"assunto" //Busca o conteúdo do site mais o conteúdo dos arquivos do site com o  assunto desejado.
+ 
+<h3>INTITLE: BUSCA PELO TÍTULO DO ARQUIVO HTML</h3>
+    intitle:"nome"
+
+<h3>INURL: BUSCA DENTRO DO ENDEREÇO (URL) NO ENDEREÇO DA PÁGINA</h3>
+    inurl:"nome"
+    
  
 
     
